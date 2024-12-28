@@ -15,4 +15,4 @@ I'm a programmer experienced in Python and JavaScript.
 ## 📫 Contact
 - [𝐃𝐢𝐬𝐜𝐨𝐫𝐝](403observant.github.io/BIO/Discord)
 ```markdown
- └── observant.ez 
+  └── observant.ez 
