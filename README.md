@@ -5,7 +5,7 @@ I'm a programmer with experience in Python and passionate about creating creativ
 ## 🔧 Technologies & Tools
 
 - **Programming Languages:** Python, JavaScript
-- **Operating Systems:** Windows - Linux
+- **Operating Systems:** Linux - Windows
 - **IDE:** Visual Studio Code
 
 ## 🚀Projects
