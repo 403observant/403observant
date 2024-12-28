@@ -13,6 +13,6 @@ I'm a programmer experienced in Python and JavaScript.
 - **[𝗛𝗶𝗸𝗼𝗺𝗼𝗿𝗶.𝗲𝘅𝗲](https://github.com/403observant/hikomori.exe):** BIO site of a friend
 
 ## 📫 Contact
-- [𝐃𝐢𝐬𝐜𝐨𝐫𝐝](403observant.github.io/BIO/Discord)
+- ![www fontspace com](https://github.com/user-attachments/assets/6e2244cd-4b5e-4dc5-aebe-61eac998dbfb) [𝐃𝐢𝐬𝐜𝐨𝐫𝐝](403observant.github.io/BIO/Discord)
 ```markdown
- ![www fontspace com](https://github.com/user-attachments/assets/6e2244cd-4b5e-4dc5-aebe-61eac998dbfb) └── observant.ez 
+  └── observant.ez 
