@@ -1,4 +1,4 @@
-# Hi, I'm observant 👋
+# Hi, I'm ᴏʙꜱᴇʀᴠᴀɴᴛ 👋
 
 I'm a programmer with experience in Python and passionate about creating creative projects I'm always looking for new challenges and opportunities to improve my skills.
 
@@ -10,10 +10,10 @@ I'm a programmer with experience in Python and passionate about creating creativ
 
 ## 🚀Projects
 
-- **[Eye-of-God](https://github.com/403observant/Eye-of-God):** Logging all messages in Discord chats
-- **[Rounding](https://github.com/403observant/Rounding):** Allows you to round the edges of images.
-- **[Hikomori.exe](https://github.com/403observant/hikomori.exe):** BIO site of my good friend.
+- **[𝗘𝘆𝗲-𝗼𝗳-𝗚𝗼𝗱](https://github.com/403observant/Eye-of-God):** Logging all messages in Discord chats
+- **[𝗥𝗼𝘂𝗻𝗱𝗶𝗻𝗴](https://github.com/403observant/Rounding):** Allows you to round the edges of images.
+- **[𝗛𝗶𝗸𝗼𝗺𝗼𝗿𝗶.𝗲𝘅𝗲](https://github.com/403observant/hikomori.exe):** BIO site of my good friend.
 
 ## 📫 Contact me
 
-- [Discord](discord.com/users/1299394490183979162)
+- [𝐃𝐢𝐬𝐜𝐨𝐫𝐝](discord.com/users/1299394490183979162)
