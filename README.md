@@ -18,4 +18,4 @@ I'm a programmer with experience in Python and passionate about creating creativ
 
 - [𝐃𝐢𝐬𝐜𝐨𝐫𝐝](403observant.github.io/BIO/Discord)
 ```markdown
-      - observant.ez 
+    - observant.ez 
