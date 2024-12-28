@@ -1,4 +1,4 @@
-# Hi, I'm ᴏʙꜱᴇʀᴠᴀɴᴛ  ![www fontspace com](https://github.com/user-attachments/assets/6e2244cd-4b5e-4dc5-aebe-61eac998dbfb)  
+# Hi, I'm ᴏʙꜱᴇʀᴠᴀɴᴛ ![img icons8](https://github.com/user-attachments/assets/597ce8eb-a2f0-4d22-af72-f6bd5132adcc)
 
 I'm a programmer experienced in Python and JavaScript.
 
