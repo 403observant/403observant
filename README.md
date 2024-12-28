@@ -1,4 +1,4 @@
-# Hi, I'm ᴏʙꜱᴇʀᴠᴀɴᴛ ![d0fc05ad092c7ef4922a7c5e994a4eaf](https://github.com/user-attachments/assets/d9fda103-a506-428e-ac2e-56983de7ad15)
+# Hi, I'm ᴏʙꜱᴇʀᴠᴀɴᴛ 
 
 
 I'm a programmer experienced in Python and JavaScript.
